@@ -1,7 +1,7 @@
 # stepis815
 # mam rad bicí
 ### bicí
-# bicí
-# bící
+##### bicí
+## bící
 # drum
-###### d
+#                            d
